@@ -152,11 +152,11 @@ div {border-radius: 20px;}
 #Profilowe {
     background-color: rgb(6, 7, 7);
     float: left;
-    margin-left: 5%;  /* zmienione */
-    margin-right: 5%;  /* zmienione */
+    margin-left: 0%;  /* zmienione */
+    margin-right: 0%;  /* zmienione */
     margin-bottom: 1%;
     height: 80px;  /* zmienione */
-    width: 90%;  /* zmienione */
+    width: 100%;  /* zmienione */
     text-align: center;
     font-size: 14px;  /* zmienione */
     letter-spacing: 1px;
@@ -167,11 +167,11 @@ div {border-radius: 20px;}
     background-color: rgba(22, 22, 22, 0.452);
     color: rgb(165, 165, 165);
     float: left;  /* zmienione */
-    margin-left: 5%;  /* zmienione */
-    margin-right: 5%;  /* zmienione */
+    margin-left: 0%;  /* zmienione */
+    margin-right: 0%;  /* zmienione */
     margin-bottom: 1%;
     height: 200px;  /* zmienione */
-    width: 90%;  /* zmienione */
+    width: 100%;  /* zmienione */
     text-align: center;
     font-size: 16px;  /* zmienione */
     letter-spacing: 1px;  /* zmienione */
@@ -180,10 +180,10 @@ div {border-radius: 20px;}
 .Post {
     background-color: rgb(37, 37, 37);
     float: left;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
     margin-bottom: 1%;
-    width: 90%;
+    width: 100%;
     text-align: center;
     color: rgb(165, 165, 165);
     letter-spacing: 1px;
@@ -208,11 +208,11 @@ div {border-radius: 20px;}
     text-align: center;
     float: left;
     margin-top: 0%;
-    margin-left: 5%;  /* zmienione */
-    margin-right: 5%;  /* zmienione */
+    margin-left: 0%;  /* zmienione */
+    margin-right: 0%;  /* zmienione */
     margin-bottom: 1%;
     height: auto;  /* zmienione */
-    width: 90%;  /* zmienione */
+    width: 100%;  /* zmienione */
     font-size: 18px;  /* zmienione */
     letter-spacing: 1px;  /* zmienione */
 }
