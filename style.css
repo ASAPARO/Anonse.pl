@@ -139,6 +139,75 @@ div {border-radius: 20px;}
 
 
 /* Responsywność */
+@media only screen and (min-width: 858px){
+}
+
+
+
+@media only screen and (max-width: 1000px) {
+/* Przyciski Zaloguj/Zarejestruj się */
+
+#Naglowek {
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+}
+
+#ZdjTlo, #tlo {
+    display: none;  /* zmienione */
+}
+
+.join-button {
+    background-color: rgba(233, 76, 3, 0.877);
+    padding: 5px 10px;  /* zmienione */
+    border: none;
+    border-radius: 5px;  /* zmienione */
+    color: rgb(223, 223, 223);
+    font-size: 15px;  /* zmienione */
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.join-button:hover {
+    background-color: rgba(0, 0, 0, 0.521);
+    color: rgb(233, 126, 3);
+    text-decoration: none;
+}
+
+#Profilowe {
+    background-color: rgb(6, 7, 7);
+    float: left;
+    margin-top: 2%;
+    margin-left: 5%;  /* zmienione */
+    margin-right: 5%;  /* zmienione */
+    margin-bottom: 1%;
+    height: 200px;  /* zmienione */
+    width: 20%;  /* zmienione */
+    text-align: left;
+    font-size: 13px;  /* zmienione */
+    letter-spacing: 1px;
+    color: rgb(172, 172, 172);
+}
+
+#Opis {
+    background-color: rgba(22, 22, 22, 0.452);
+    color: rgb(165, 165, 165);
+    float: right;  /* zmienione */
+    margin-top: 2%;
+    margin-left: 5%;  /* zmienione */
+    margin-right: 5%;  /* zmienione */
+    margin-bottom: 1%;
+    height: 200px;  /* zmienione */
+    width: 60%;  /* zmienione */
+    text-align: center;
+    font-size: 14px;  /* zmienione */
+    letter-spacing: 1px;  /* zmienione */
+}
+}
+
+
+
 @media only screen and (max-width: 858px) {
     /* Kontenery DIV */
 #Naglowek {
@@ -238,7 +307,7 @@ div {
     border: none;
     border-radius: 5px;  /* zmienione */
     color: rgb(223, 223, 223);
-    font-size: 12px;  /* zmienione */
+    font-size: 13px;  /* zmienione */
     cursor: pointer;
     text-decoration: none;
 }
