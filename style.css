@@ -139,7 +139,7 @@ div {border-radius: 20px;}
 
 
 /* Responsywność */
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 908px) {
     /* Kontenery DIV */
 #Naglowek {
     display: none;
